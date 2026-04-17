@@ -18,7 +18,7 @@ import {
 function App() {
   return (
     <div className="App">
-      <Navbar title="IMS" about="About"></Navbar>
+      <Navbar title="Home" about="About"></Navbar>
 
       <Router>
         <Routes>
