@@ -20,6 +20,10 @@ This inventory management application allows users to:
 - Delete products from inventory
 - Navigate through different sections of the app
 
+## App Preview
+
+![Inventory App Overview](inventory-app-overview.png)
+
 ## Tech Stack
 
 **Frontend:**
