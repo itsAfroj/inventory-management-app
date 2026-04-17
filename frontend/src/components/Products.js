@@ -61,7 +61,7 @@ export default function Products() {
             <div className='container-fluid p-5'>
                 <h1>Products Inventory</h1>
                 <div className='add_button'>
-                    <NavLink to="/insertproduct" className='btn btn-primary fs-5'> + Add New Product</NavLink>
+                    <NavLink to="/insertproduct" className='btn btn-success fs-5'> + Add New Product</NavLink>
                 </div>
                 <div className="overflow-auto mt-3" style={{ maxHeight: "38rem" }}>
                     <table className="table table-striped table-hover mt-3 fs-5">
